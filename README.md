@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/VadsolaKishan/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/VadsolaKishan/LeetCode/tree/master/0050-powx-n) |
 ## Array
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VadsolaKishan/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/VadsolaKishan/LeetCode/tree/master/0044-wildcard-matching) |
 ## Stack
 |  |
 | ------- |
@@ -33,9 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/VadsolaKishan/LeetCode/tree/master/0044-wildcard-matching) |
 | [2785-sort-vowels-in-a-string](https://github.com/VadsolaKishan/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [2785-sort-vowels-in-a-string](https://github.com/VadsolaKishan/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/VadsolaKishan/LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
