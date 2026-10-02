@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VadsolaKishan/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/VadsolaKishan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0485-max-consecutive-ones](https://github.com/VadsolaKishan/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VadsolaKishan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/VadsolaKishan/LeetCode/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/VadsolaKishan/LeetCode/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/VadsolaKishan/LeetCode/tree/master/0044-wildcard-matching) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/VadsolaKishan/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
