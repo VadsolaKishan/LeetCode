@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VadsolaKishan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VadsolaKishan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0485-max-consecutive-ones](https://github.com/VadsolaKishan/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1652-defuse-the-bomb](https://github.com/VadsolaKishan/LeetCode/tree/master/1652-defuse-the-bomb) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VadsolaKishan/LeetCode/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/VadsolaKishan/LeetCode/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
